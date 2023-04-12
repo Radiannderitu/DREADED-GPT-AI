@@ -1,6 +1,6 @@
 const sessionName = "dreaded1";
 const donet = "https://github.com/Fortunatusmokaya/DREADED-AI";
-const owner = ["254114018035"]; // This will send a notification once the bot reconnects
+const owner = ["254717768930"]; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
