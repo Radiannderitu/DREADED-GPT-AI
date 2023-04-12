@@ -1,5 +1,5 @@
 {
-  "name": "DREADED-AI",
+  "name": "DREAD-AI",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fortunatusmokaya/DREADED-AI.git"
+    "url": "git+https://github.com/Radiannderitu/DREADED-AI.git"
   },
   "bugs": {
     "url": "https://github.com/Fortunatusmokaya/DREADED-AI/issues"
